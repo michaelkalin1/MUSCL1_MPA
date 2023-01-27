@@ -4,8 +4,6 @@ function [xroot, froot] = brent (f, x1, x2, rtol)
 
 % Brent's method
 
-%Hello
-
 % input
 
 %  f    = objective function coded as y = f(x)
